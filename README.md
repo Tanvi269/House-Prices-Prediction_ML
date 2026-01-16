@@ -20,7 +20,7 @@
 ## Result
 ## Result
 - Evaluated using RMSE
-- Best score retained on Kaggle leaderboard
+  
 
 
 ## Platform
